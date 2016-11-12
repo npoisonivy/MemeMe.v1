@@ -61,6 +61,7 @@ class MemeEditorViewController: UIViewController, UIImagePickerControllerDelegat
         textField.backgroundColor = UIColor.clearColor()           // set background color of textfields
         textField.defaultTextAttributes = memeTextAttributes       // When viewDidLoad, set each textfield's defaultTextAttribute as memeTextAttributes
         textField.textAlignment = .Center                       //  set text alignment - center-aligned - must be after .defaultAttributes, otherwise, it reset the textAlignment!
+        textField.borderStyle = .None
     }
     
     
