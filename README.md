@@ -1,14 +1,11 @@
 MemeMe
 
-This app allows users to create a meme, either from a photo they just take or chosen from photo library, with their words.
-Shared meme will be saved and displated as a list (swift table) or grid (swift collection).
+This app allows users to create a meme, either from a photo they just take or chosen from photo library, added with their words.
 
 Swift Compoents used:
 
 Tab views
 UI Table Views
-UI Collection Views
-Custom cell views
 UI Navigation
 Image picker
 Delegates
