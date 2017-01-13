@@ -14,4 +14,5 @@ Image picker
 Delegates
 
 *** How to use ***
+
 Simply clone the repo and launch in Xcode.
